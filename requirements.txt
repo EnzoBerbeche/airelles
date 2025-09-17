@@ -1,0 +1,4 @@
+# Dépendances pour le système de chargement des fichiers FEC
+psycopg2-binary==2.9.9
+pandas==2.1.4
+python-dotenv==1.0.0
